@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KarthikG24
-- 👀 I’m interested in ...Artificial Intelligence and Machine Learning 
-- 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...
+- 👀 I’m interested in Artificial Intelligence and Machine Learning 
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me karthikggowda24@gmail.com
 
 <!---
 KarthikG24/KarthikG24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
